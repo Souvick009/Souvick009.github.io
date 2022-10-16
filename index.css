@@ -67,8 +67,7 @@ li a {
 }
 
 .contact {
-    padding-left: 77%;
-    position: absolute;
+    float: right;
 }
 
 .made {
